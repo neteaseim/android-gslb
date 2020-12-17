@@ -1,0 +1,59 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.netease",
+    "module": "gslb",
+    "version": "0.0.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.5",
+      "buildId": "gzel2kr3grac3nxzhi3bmhtiwq"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "gslb-0.0.2.aar",
+          "url": "gslb-0.0.2.aar",
+          "size": 39626,
+          "sha512": "007cedd78201d323d84f7e1c8a7c4eb594d5efb18c221867bc26e2f1babbb84d13f833e3794d4d56ae17bc1b4405967a9afb11faa73aec08ba73578a978b3718",
+          "sha256": "c3a2f15ceb3c0a731cbbf8222ae296eff036c2474d5221365004687bf7b54d50",
+          "sha1": "476d21f23a7f9727365a238bb4a01fd7c0f06620",
+          "md5": "21b2a7adbeb4b2d1b5ed5f9e05e2234b"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "gslb-0.0.2.aar",
+          "url": "gslb-0.0.2.aar",
+          "size": 39626,
+          "sha512": "007cedd78201d323d84f7e1c8a7c4eb594d5efb18c221867bc26e2f1babbb84d13f833e3794d4d56ae17bc1b4405967a9afb11faa73aec08ba73578a978b3718",
+          "sha256": "c3a2f15ceb3c0a731cbbf8222ae296eff036c2474d5221365004687bf7b54d50",
+          "sha1": "476d21f23a7f9727365a238bb4a01fd7c0f06620",
+          "md5": "21b2a7adbeb4b2d1b5ed5f9e05e2234b"
+        }
+      ]
+    }
+  ]
+}
